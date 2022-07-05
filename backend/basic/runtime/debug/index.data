@@ -1,0 +1,1 @@
+a:1:{s:13:"62c489b863715";a:12:{s:3:"tag";s:13:"62c489b863715";s:3:"url";s:22:"http://localhost:8000/";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:13:"192.168.112.1";s:4:"time";d:1657047480.332;s:10:"statusCode";i:200;s:8:"sqlCount";i:0;s:9:"mailCount";i:0;s:9:"mailFiles";a:0:{}s:10:"peakMemory";i:2583808;s:14:"processingTime";d:0.1092991828918457;}}
